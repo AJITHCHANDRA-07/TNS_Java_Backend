@@ -9,9 +9,15 @@ public class Main_Inheritence {
 		b.sound3();      // calling the method with parent class refrence by child class
 		Dog c=new Dog();// Instatiating the object for another child class
 		c.sound1();       // calling the method with parent class refrence by child class
+      	Car obj = new Car(); // Triggers all constructors in order // multilevel Inheritence
+		Car obj1 = new Car(); // Hierarchical Inheritance
+        Bus obj2 = new Bus(); //Hierarchical Inheritance
+    }
+}
 		
 	}
 
 }
+
 
 

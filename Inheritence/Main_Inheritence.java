@@ -1,4 +1,4 @@
-
+// Main class 
 public class Main_Inheritence {
 
 	public static void main(String[] args) {
@@ -13,4 +13,5 @@ public class Main_Inheritence {
 	}
 
 }
+
 
